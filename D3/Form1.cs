@@ -27,6 +27,7 @@ namespace D3
             checkBox2.CheckedChanged += textBoxResult2_TextChanged;
             checkBox3.CheckedChanged += textBoxResult2_TextChanged;
             checkBox4.CheckedChanged += textBoxResult2_TextChanged;
+            button1.Click += button1_Click;
 
         }
 
